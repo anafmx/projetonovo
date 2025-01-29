@@ -1,0 +1,23 @@
+#main{
+    width: 600px;
+    margin: 40px auto;
+}
+#entrada{
+    text-align: center;
+    margin-top: 40px;
+}
+table{
+    margin-top: 40px;
+    width: 100%;
+    background-color: rgb(244, 244, 244);
+    border-collapse: collapse;
+}
+th,td{
+    padding: 20px;
+}
+
+thead{
+    text-align: left;
+    background-color: rgb(80, 79, 79);
+    color: aliceblue
+}
